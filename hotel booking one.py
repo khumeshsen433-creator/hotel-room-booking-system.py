@@ -2,7 +2,7 @@
 # Project Title : Hotel Room Booking System
 # PS Number     : [67]
 # Student Name  : Khumesh kumar sen
-# Email ID      : khumesh.kimar.sen@rungta.org
+# Email ID      : khumesh.kumar.sen@rungta.org
 # Course        : BCA (AI & ML)
 # Section       : [BCA 1A]
 # ============================================================
